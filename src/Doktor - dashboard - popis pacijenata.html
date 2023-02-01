@@ -39,7 +39,15 @@
         }
 
         .container {
-            padding: 25px
+                  position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 1000px;
+        padding: 40px;
+        box-sizing: border-box;
+        box-shadow: 0 15px 25px rgba(0,0,0,.6);
+        border-radius: 50px;
         }
 
         tbody tr:hover {
@@ -95,16 +103,16 @@
             <th>Ime</th>
             <th>Prezime</th>
             <th>MBO</th>
-            <th>Izbriši</th>
+
         </tr>
         </thead>
 
         <tbody>
         <tr class="clickable" onclick="window.location='doctorcheckrecords.html'">
             <td>1</td>
-            <td>Maria</td>
-            <td>Mesarić</td>
-            <td>123456789</td>
+            <td>Mirko</td>
+            <td>Božić</td>
+            <td>0915786247</td>
             <td><a href="#" onclick="deleteRow(this);">Izbriši</a></td>
         </tr>
 
@@ -112,15 +120,15 @@
             <td>2</td>
             <td>Damjan</td>
             <td>Znika</td>
-            <td>223456789</td>
+            <td>0957246389</td>
             <td><a href="#" onclick="deleteRow(this);">Izbriši</a></td>
         </tr>
 
         <tr>
             <td>3</td>
-            <td>Branimir</td>
-            <td>Golub</td>
-            <td>323456789</td>
+            <td>Freddy</td>
+            <td>Krueger</td>
+            <td>0981726985</td>
             <td><a href="#" onclick="deleteRow(this);">Izbriši</a></td>
         </tr>
 
