@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1b5b3fb-c6f1-46e4-86bf-bd6640fb8bea" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UI-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UI-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UI-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UI-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TelemedUI.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/TelemedUI.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,11 +63,24 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1675247304569</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="WOOT">
+      <created>1675249339109</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1675249339109</updated>
+    </task>
+    <task id="LOCAL−00003" summary="WOOT vol 2">
+      <created>1675249358196</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1675249358196</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="WOOT" />
-    <option name="LAST_COMMIT_MESSAGE" value="WOOT" />
+    <MESSAGE value="WOOT vol 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="WOOT vol 2" />
   </component>
 </project>
