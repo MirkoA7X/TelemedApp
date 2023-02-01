@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1b5b3fb-c6f1-46e4-86bf-bd6640fb8bea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/UI-5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UI-6.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TelemedUI.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/UI-0.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UI-0.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/UI-0.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/UI-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/UI-1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UI-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/UI-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UI-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/UI-3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UI-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/UI-4.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +43,15 @@
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/dh12g/bootcamp_kr/TelemedApp/src"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dh12g\bootcamp_kr\TelemedApp\src" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -86,6 +87,17 @@
     </task>
     <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="WOOT" />
