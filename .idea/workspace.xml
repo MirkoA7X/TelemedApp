@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1b5b3fb-c6f1-46e4-86bf-bd6640fb8bea" name="Changes" comment="navigacija update">
+    <list default="true" id="a1b5b3fb-c6f1-46e4-86bf-bd6640fb8bea" name="Changes" comment="navigacija updatev1.1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/UI-0.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/UI-0.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/UI-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/UI-4.html" afterDir="false" />
@@ -91,7 +91,13 @@
       <option name="presentableId" value="LOCAL−00005" />
       <updated>1675256565767</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL−00006" summary="navigacija updatev1.1">
+      <created>1675257164829</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1675257164829</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,6 +116,7 @@
     <MESSAGE value="WOOT vol 2" />
     <MESSAGE value="WOOT vol 3" />
     <MESSAGE value="navigacija update" />
-    <option name="LAST_COMMIT_MESSAGE" value="navigacija update" />
+    <MESSAGE value="navigacija updatev1.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="navigacija updatev1.1" />
   </component>
 </project>
