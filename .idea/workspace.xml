@@ -4,20 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1b5b3fb-c6f1-46e4-86bf-bd6640fb8bea" name="Changes" comment="navigacija updatev1.2">
-    <list default="true" id="a1b5b3fb-c6f1-46e4-86bf-bd6640fb8bea" name="Changes" comment="">
+    <list default="true" id="a1b5b3fb-c6f1-46e4-86bf-bd6640fb8bea" name="Changes" comment="Alfa verzija vol. 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UI-0.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/UI-0.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UI-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/UI-1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UI-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/UI-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UI-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/UI-3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UI-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/UI-4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UI-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/UI-5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UI-0.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/LogIn.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UI-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pacijent - popis zapisa.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UI-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pacijent - unos novog zapisa.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UI-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Doktor - dashboard - popis pacijenata.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UI-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Doktor - kreiranje novog pacijenta.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Doktor - dashboard - popis pacijenata.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Doktor - dashboard - popis pacijenata.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Doktor - kreiranje novog pacijenta.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Doktor - kreiranje novog pacijenta.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Doktor - pregled pojedinog pacijenta.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Doktor - pregled pojedinog pacijenta.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LogIn.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/LogIn.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pacijent - popis zapisa.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pacijent - popis zapisa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pacijent - unos novog zapisa.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pacijent - unos novog zapisa.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,14 +48,9 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/dh12g/bootcamp_kr/TelemedApp/src"
+    "last_opened_file_path": "C:/Users/Korisnik/IdeaProjects/BestTelemedApp"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\dh12g\bootcamp_kr\TelemedApp\src" />
-    </key>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -95,38 +84,20 @@
       <option name="presentableId" value="LOCAL−00004" />
       <updated>1675249956441</updated>
     </task>
-    <task id="LOCAL−00005" summary="navigacija update">
-      <created>1675256565767</created>
+    <task id="LOCAL−00005" summary="Alfa verzija vol. 1">
+      <created>1675251455709</created>
       <option name="number" value="LOCAL−00005" />
       <option name="presentableId" value="LOCAL−00005" />
-      <updated>1675256565767</updated>
+      <updated>1675251455709</updated>
     </task>
-    <task id="LOCAL−00006" summary="navigacija updatev1.1">
-      <created>1675257164829</created>
-      <option name="number" value="LOCAL−00006" />
-      <option name="presentableId" value="LOCAL−00006" />
-      <updated>1675257164829</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
+    <option name="localTasksCounter" value="6" />
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="WOOT" />
     <MESSAGE value="WOOT vol 2" />
     <MESSAGE value="WOOT vol 3" />
-    <MESSAGE value="navigacija update" />
-    <MESSAGE value="navigacija updatev1.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="navigacija updatev1.1" />
+    <MESSAGE value="Alfa verzija vol. 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Alfa verzija vol. 1" />
   </component>
 </project>

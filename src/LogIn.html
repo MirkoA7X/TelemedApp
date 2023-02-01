@@ -12,26 +12,48 @@
     <title>Prijava</title>
 
     <style>
-        @import url('https://fonts.cdnfonts.com/css/ciutadella');
+
+
+        .login-box {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 400px;
+        padding: 40px;
+        box-sizing: border-box;
+        box-shadow: 0 15px 25px rgba(0,0,0,.6);
+        border-radius: 50px;
+}
+
+
 
         Body {
-            font-family: 'Ciutadella', sans-serif;
             font-size: large;
             margin-top: 8%;
         }
 
-        input[type=text],
+
         input[type=password] {
             width: 100%;
-            margin: 8px 0;
+            margin: 20px 0;
             padding: 12px 20px;
             display: inline-block;
             border: 2px solid #f24521;
             box-sizing: border-box;
         }
 
-        .container {
-            padding: 25px
+        input[type=text]{
+            width: 100%;
+            margin: 20px 0;
+            padding: 12px 20px;
+            display: inline-block;
+            border: 2px solid #f24521;
+            box-sizing: border-box;
+        }
+
+
+
         }
     </style>
 
@@ -39,30 +61,50 @@
 
 <body>
 
-<div class="container" style="margin: 0 auto;">
+<div class="login-box">
 
-        <header><img src="logo.png" style="width: 10%" alt="telemedlogo"></header>
+        <header><img src="logo.png" style="width: 100%" alt="telemedlogo"></header>
 
         <h1 style="color: black; text-align: center;  margin-bottom: 3%;">Dobro došli!</h1>
-        <h3 style="color: dimgray; margin-bottom: 3%; text-align: center;">Telemedicinski sustav za slanje i pregled krvnog tlaka</h3>
+
+        <h3 style="color: black; margin-bottom: 3%; text-align: center;">Telemedicinski sustav za slanje i pregled krvnog tlaka</h3>
+
+    <div class="row mb-4">
+        <div class="cold-flex justify-content-center">
+        </div>
+    </div>
+
+    <div class="row mb-4">
+        <div class="cold-flex justify-content-center">
+        </div>
+    </div>
+
 
     <form>
 
-        <div class="form-outline mb-4">
+        <div class="LoginForm">
             <label for="username" >Korisničko ime</label>
             <input type="text" id="username" name="username" required>
         </div>
 
-        <div class="form-outline mb-4">
+        <div class="LoginForm2">
             <label for="password">Lozinka</label>
             <input type="password" id="password" name="password" required>
 
         </div>
 
         <div class="row mb-4">
-            <div class="col d-flex justify-content-center">
+            <div class="cold-flex justify-content-center">
             </div>
         </div>
+
+        <div class="row mb-4">
+            <div class="cold-flex justify-content-center">
+            </div>
+        </div>
+
+
+
 
         <button type="button" class="btn btn-danger btn-block mb-4"
                 style="font-size: 20px; background-color: #f24521;"
@@ -74,9 +116,9 @@
 
     </form>
 
-    <center>
-        <footer style="color: #f24521;">Copyright &#169; Telemed / All rights reserved</footer>
-    </center>
+
+        <footer style="color: #f24521; text-align: center;">Copyright &#169; Telemed / All rights reserved</footer>
+
 
 </div>
 </body>
