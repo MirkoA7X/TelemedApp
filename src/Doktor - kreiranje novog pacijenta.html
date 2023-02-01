@@ -29,7 +29,7 @@
             margin: 8px 0;
             padding: 12px 20px;
             display: inline-block;
-            border: 2px solid #ae0640;
+            border: 2px solid #f24521;
             box-sizing: border-box;
         }
 
@@ -63,7 +63,7 @@
                         <img src="pacijent.png" width="40" height="40" class="rounded-circle">
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="#">Log out</a></li>
+                        <li><a class="dropdown-item" href="UI-0.html">Log out</a></li>
                         <!--<li><a class="dropdown-item" href="#">Another action</a></li>
                         <li><hr class="dropdown-divider"></li>
                         <li><a class="dropdown-item" href="#">Something else here</a></li>-->
@@ -73,47 +73,46 @@
         </div>
     </nav>
 
-    <center>
-        <h1>Unos informacija o pacijentu</h1>
-    </center>
 
-    <form>
+        <h1 style="text-align: center;">Unos informacija o pacijentu</h1>
 
-        <div class="form-outline mb-4">
+    <form style="width: 50%; margin:0 auto;">
+
+        <div class="form-outline mb-4 .was-validated">
             <label for="fname">Ime</label>
             <input type="text" id="fname" name="fname" required placeholder="Unesite ime">
 
         </div>
 
-        <div class="form-outline mb-4">
+        <div class="form-outline mb-4 .was-validated">
             <label for="lname">Prezime</label>
             <input type="text" id="lname" name="lname" required placeholder="Unesite prezime">
         </div>
 
-        <div class="form-outline mb-4">
+        <div class="form-outline mb-4 .was-validated">
             <label for="dateofbirth">Datum rođenja</label>
             <input type="date" id="dateofbirth" name="dateofbirth" required>
         </div>
 
-        <div class="form-outline mb-4">
+        <div class="form-outline mb-4 .was-validated">
             <label for="dateofbirth">Mobitel</label>
             <input type="tel" id="phone" name="phone" pattern="[0-9]{3}-[0-9]{4}-[0-9]{3}"
                    placeholder="091-1234-567" required>
         </div>
 
-        <div class="form-outline mb-4">
+        <div class="form-outline mb-4 .was-validated">
             <label for="email">Email</label>
             <input type="email" id="email" name="email" required placeholder="example@gmail.com">
         </div>
 
-        <div class="form-outline mb-4">
+        <div class="form-outline mb-4 .was-validated">
             <label for="password">Lozinka</label>
             <input type="text" id="password" name="password" required>
         </div>
 
-        <div class="form-outline mb-4">
+        <div class="form-outline mb-4 .was-validated">
             <label for="mbo">MBO</label>
-            <input type="number" id="mbo" name="mbo" min="9" max="9" required>
+            <input type="number" id="mbo" name="mbo" maxlength="9" required>
         </div>
 
         <div class="row mb-4">
@@ -122,12 +121,12 @@
         </div>
 
         <button type="button" class="btn btn-danger btn-block mb-4"
-                style="font-size: 20px; background-color: #ae0640;"
+                style="font-size: 20px; background-color: #f24521;"
                 onclick="window.location.href='doctordashboard.html'">Spremi</button>
 
     </form>
     <center>
-        <footer style="color: #ae0640;">Copyright &#169; Telemed / All rights reserved</footer>
+        <footer style="color: #f24521; padding-bottom: 1%;">Copyright &#169; Telemed / All rights reserved</footer>
     </center>
 </div>
 </body>
